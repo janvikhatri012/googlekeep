@@ -28,7 +28,7 @@ function NotesGrid({
 }) {
   return (
     <div className="notes-grid">
-      {notes.length === 0 ? (
+      {notes.length === 0? (
         <div className="empty-state">
           <h2>
             Notes that you add appear here

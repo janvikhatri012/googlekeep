@@ -80,7 +80,7 @@ function Header({ sidebarOpen, setSidebarOpen }) {
         />
       </div>
 
-      <div className="avatar">KP</div>
+      <div className="avatar">J</div>
     </header>
   );
 }
